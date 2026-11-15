@@ -1,0 +1,17 @@
+2026-11-14 09:04:56 [ERROR] Failed to open configuration file
+2026-11-14 09:23:58 [ERROR] HTTP request failed: 500 Internal Server Error
+2026-11-14 09:27:03 [ERROR] Unable to save book record
+2026-11-14 09:27:11 [ERROR] Unable to save book record
+2026-11-14 09:36:36 [ERROR] Connection to database timed out
+2026-11-14 09:38:49 [ERROR] Database query failed: database is locked
+2026-11-14 09:48:56 [ERROR] Failed to open configuration file
+2026-11-14 09:50:55 [ERROR] Failed to open configuration file
+2026-11-14 09:56:48 [ERROR] Unable to save book record
+2026-11-14 10:12:27 [ERROR] Authentication token validation failed
+2026-11-14 10:23:57 [ERROR] Connection to database timed out
+2026-11-14 10:46:21 [ERROR] Failed to open configuration file
+2026-11-14 10:46:59 [ERROR] HTTP request failed: 500 Internal Server Error
+2026-11-14 10:47:43 [ERROR] Unable to save book record
+2026-11-14 10:50:52 [ERROR] Authentication token validation failed
+2026-11-14 11:05:17 [ERROR] Authentication token validation failed
+2026-11-14 11:08:52 [ERROR] Database query failed: database is locked
